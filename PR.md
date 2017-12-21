@@ -12,8 +12,14 @@ Al mismo tiempo, las nuevas tecnologías como blockchain prometen un futuro más
 
 Panama Glass reunirá a estos expertos internacionales junto con líderes locales para discutir estos temas importantes. Junto con un grupo de estudiantes voluntarios panameños, escribiremos un plan visionario para lo que es posible "para modernizar y mejorar la transparencia del sistema financiero del país".
 
+ - Equipo Panama Glass
+
 [1] http://pty.glass
+
 [2] http://www.panamatoday.com/es/economy/caf-prestara-250-millones-panama-para-mejorar-gestion-financiera-5716
+
 [3] https://www.ccn.com/bitt-launches-the-blockchain-barbadian-digital-dollar/
+
 [4] https://bitcoinmagazine.com/articles/the-bank-of-england-s-rscoin-an-experiment-for-central-banks-or-a-bitcoin-alternative-1459183955/
+
 [5] http://gulfbusiness.com/dubai-use-bitcoin-database-technology-government-documents-2020/
