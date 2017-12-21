@@ -1,5 +1,7 @@
 # panama-glass
 
+[![Join the chat at https://gitter.im/panama-glass/Lobby](https://badges.gitter.im/panama-glass/Lobby.svg)](https://gitter.im/panama-glass/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Panamá Glass is an open discourse on "modernization and transparency of Panamá's financial system." The summit will bring together international experts with local stakeholders and a lucky group of students. The goal of this group is to produce a visionary plan. Topics to include: 
 
  + Transparency and Accountability
