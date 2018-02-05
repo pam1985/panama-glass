@@ -1,6 +1,8 @@
-Se anuncia la Cumbre Panamá Glass
+ 
+ 
+ # Se anuncia la Cumbre Panamá Glass
 
- * 22 al 25 de febrero de 2018
+ ## 22 al 25 de febrero de 2018
 
 La cumbre Panamá Glass reunirá a expertos internacionales, organizaciones, ciudadanos interesados y un grupo de estudiantes para tener un diálogo abierto sobre la modernización y transparencia del sistema financiero de Panamá.[1]  El objetivo de este grupo es producir una visión para Panamá en este campo.
 
@@ -12,7 +14,7 @@ Al mismo tiempo, las nuevas tecnologías como blockchain prometen un futuro más
 
 Panama Glass reunirá a varios expertos internacionales sobre tecnologa blockchain con líderes locales para considerar cómo Panamá se podra unir a esta tendencia vanguardista de promover la transaprencia financiera usando la tecnologa. Junto con un grupo de estudiantes voluntarios panameños, buscamos hacer una propuesta de un plan visionario sobre iniciativas posibles para modernizar y mejorar la transparencia del sistema financiero del país.
 
- - Equipo Panama Glass
+## Equipo Panama Glass
 
 [1] http://pty.glass
 
