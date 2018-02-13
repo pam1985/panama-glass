@@ -1,0 +1,284 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Panama Glass Documentation</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+
+    <style>
+        h1 {
+            font-size: 1.9rem;
+            margin-bottom: 0.8rem;
+        }
+        
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        h3 {
+            font-size: 1.4rem;
+        }
+        
+        h4 {
+            font-size: 1.2rem;
+        }
+        
+        h5 {
+            font-size: 1rem;
+        }
+        
+        h6 {
+            font-size: 0.8rem;
+        }
+        
+        .navbar {
+            padding: 0;
+            color: #0975bf;
+            font-weight: 200;
+            border-bottom: 2rem solid #1880c5;
+        }
+        
+        .navbar-header h1 {
+            margin-bottom: 0%;
+        }
+        
+        img {
+            max-width: 100%;
+        }
+        
+        #content {
+            margin-top: 2rem;
+        }
+        
+        .list-group ul {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .list-group li {
+            position: relative;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-flow: row wrap;
+            -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+            -ms-flex-align: center;
+            align-items: center;
+        }
+        
+        .heading {
+            margin-top: 1.8rem;
+            margin-bottom: 0.5rem;
+            width: 100%;
+            color: #464a4c8c;
+        }
+        
+        .list-group li a {
+            padding: .75rem 1.25rem;
+            margin-bottom: -1px;
+            background-color: #fff;
+            border: 1px solid rgba(0, 0, 0, .125);
+            width: 100%;
+            color: #464a4c;
+            text-align: inherit;
+            text-transform: capitalize;
+        }
+        
+        .list-group li:first-child a {
+            border-top-right-radius: .25rem;
+            border-top-left-radius: .25rem;
+        }
+        
+        .list-group li:last-child a {
+            margin-bottom: 2rem;
+            border-bottom-right-radius: .25rem;
+            border-bottom-left-radius: .25rem;
+        }
+        
+        .list-group li a.active {
+            z-index: 2;
+            color: #fff;
+            background-color: #187fc5;
+            border-color: #0275d8;
+        }
+        
+        .list-group li a:focus,
+        .list-group li a:hover {
+            color: #464a4c;
+            text-decoration: none;
+            background-color: #f7f7f9;
+        }
+        
+        #sidebar ul .heading {
+            color: #187fc5;
+            font-weight: 600;
+        }
+        
+        #sidebar ul ul .heading {
+            color: #464a4c;
+            font-weight: 400;
+        }
+        
+        #cover {
+            width: 100%;
+            height: 100%;
+            page-break-after: always;
+            position: relative;
+            text-align: center;
+        }
+        
+        #cover img {
+            margin-top: 40%;
+            width: 80%;
+        }
+        
+        #cover ul {
+            list-style-type: none;
+        }
+        
+        #cover a {
+            display: none;
+        }
+        
+        #cover a.active {
+            font-size: 4rem;
+            font-weight: 300;
+            color: #b6b4b4;
+            position: relative;
+            top: -1rem;
+            display: block
+        }
+    </style>
+</head>
+
+<body>
+    <div id="cover" class="d-print-block">
+        <img src="../img/logoprint.png" class="img-responsive" alt="Image">
+        <ul>
+<li><a class="" href="..\..\index.html">index</a></li>
+<li class="heading">English</li>
+<ul>
+<li><a class="" href="..\1-bylaws.html">bylaws</a></li>
+<li><a class="" href="..\2-speakers.html">speakers</a></li>
+<li><a class="" href="..\3-sponsors.html">sponsors</a></li>
+<li><a class="" href="..\4-balboa coin.html">balboa coin</a></li>
+<li class="heading">Press release</li>
+<ul>
+<li><a class="active" href="Press_Release_1.html">Press Release 1</a></li>
+<li><a class="" href="Press_Release_2.html">Press Release 2</a></li>
+</ul>
+<li class="heading">Work groups</li>
+<ul>
+<li><a class="" href="..\Work_groups\digital_dollar.html">digital dollar</a></li>
+<li><a class="" href="..\Work_groups\digital_identity.html">digital identity</a></li>
+<li><a class="" href="..\Work_groups\legal_titles.html">legal titles</a></li>
+<li><a class="" href="..\Work_groups\public_accountability.html">public accountability</a></li>
+</ul>
+</ul>
+<li class="heading">Spanish</li>
+<ul>
+<li><a class="" href="..\..\Spanish\1-balboa_coin.html">balboa coin</a></li>
+<li class="heading">Prensa</li>
+<ul>
+<li><a class="" href="..\..\Spanish\2-Prensa\Comunicado_de_Prensa.html">Comunicado de Prensa</a></li>
+<li><a class="" href="..\..\Spanish\2-Prensa\Comunicado_de_Prensa_1.html">Comunicado de Prensa 1</a></li>
+<li><a class="" href="..\..\Spanish\2-Prensa\Comunicado_de_Prensa_2.html">Comunicado de Prensa 2</a></li>
+</ul>
+</ul>
+</ul>
+    </div>
+    <header class="header d-print-none">
+        <!-- Navigation -->
+        <nav class="navbar main-menu" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <h1 id="logo">
+                        <a target="_blank" class="navbar-brand page-scroll" href="https:pty.glass">
+                            <img src="../img/newlogo.png" class="img-responsive" alt="Image">
+                        </a>
+                    </h1>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="navbar-right">
+                    Docs
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+        <!-- .nav -->
+    </header>
+
+    <section id="content" class="container">
+        <div class="row row-offcanvas row-offcanvas-left">
+            <div class="col-12 col-sm-3 sidebar-offcanvas d-print-none" id="sidebar">
+                <div class="list-group">
+                    <ul>
+<li><a class="" href="..\..\index.html">index</a></li>
+<li class="heading">English</li>
+<ul>
+<li><a class="" href="..\1-bylaws.html">bylaws</a></li>
+<li><a class="" href="..\2-speakers.html">speakers</a></li>
+<li><a class="" href="..\3-sponsors.html">sponsors</a></li>
+<li><a class="" href="..\4-balboa coin.html">balboa coin</a></li>
+<li class="heading">Press release</li>
+<ul>
+<li><a class="active" href="Press_Release_1.html">Press Release 1</a></li>
+<li><a class="" href="Press_Release_2.html">Press Release 2</a></li>
+</ul>
+<li class="heading">Work groups</li>
+<ul>
+<li><a class="" href="..\Work_groups\digital_dollar.html">digital dollar</a></li>
+<li><a class="" href="..\Work_groups\digital_identity.html">digital identity</a></li>
+<li><a class="" href="..\Work_groups\legal_titles.html">legal titles</a></li>
+<li><a class="" href="..\Work_groups\public_accountability.html">public accountability</a></li>
+</ul>
+</ul>
+<li class="heading">Spanish</li>
+<ul>
+<li><a class="" href="..\..\Spanish\1-balboa_coin.html">balboa coin</a></li>
+<li class="heading">Prensa</li>
+<ul>
+<li><a class="" href="..\..\Spanish\2-Prensa\Comunicado_de_Prensa.html">Comunicado de Prensa</a></li>
+<li><a class="" href="..\..\Spanish\2-Prensa\Comunicado_de_Prensa_1.html">Comunicado de Prensa 1</a></li>
+<li><a class="" href="..\..\Spanish\2-Prensa\Comunicado_de_Prensa_2.html">Comunicado de Prensa 2</a></li>
+</ul>
+</ul>
+</ul>
+                </div>
+            </div>
+            <div class="col-12 col-sm-9">
+                <div>
+                    <p>TECHNOLOGY. THE VACCINE AGAINST CORRUPTION.
+Rubenad Rivera Botacio, +507 6232-4657, <a href="mailto:rubenad.rivera@gmail.com">rubenad.rivera@gmail.com</a>, @RubenadRiveraB
+Panama City, February 2nd 2018. “If you do not fight to end corruption, you will end up being part of it,” in this quote by Joan Baez, we can summarize part of the current environment in our country. We do not only feel weary and ashamed of the level of corruption, but we already feel obliged to do something to combat this impoverishing scourge.</p>
+<p>Currently, we have addressed and managed the issue of corruption through suppression, evasion and establishing more laws and legal mechanisms. This reminds me of the famous phrase of Tacitus (Roman historian) and repeated by Etienne Bonnot de Condillac (French philosopher and economist). “In times of corruption is when more laws are made.” Legal tools are good and must be the path taken by a civilized society, nevertheless, we want to introduce a new tool in this dialogue that will not only help to avert, combat and prevent corruption, but also to innovate and modernize the economy: new technologies that enable things like intelligent contracts, digital identity, the digital dollar, automation and improved information security in government processes such as transfers of title deeds in the Public Registry or voting in elective positions among others.</p>
+<p>In 2017, Panama was hit by various scandals related to corruption: presumption of millionaire bribes to public officials, presumption of scandalous thefts in public works and the inclusion of Panama on the European Union Black list, among others. All these corruption scandals have us outraged and society demands an answer to ensure that this does not happen again or at least implement mechanisms to prevent acts of corruption.</p>
+<p>Similarly in 2017, Panama received a loan of $250 million dollars from the Andean Development Corporation (Corporación Andina de Fomento CAF) with the aim of modernizing and improving the transparency of the country’s financial system, therefore society expects to witness improvements in the transparency of public management in the fight against corruption.</p>
+<p>Currently there are new technologies that can help these purposes and when implemented in Panama, they will increase transparency in government management and curb corruption in an automatic and objective way. These tools have been implemented in other countries with positive results. Likewise, some world organizations are using these technologies to make donations and humanitarian aid more transparent.</p>
+<p>The issue of increasing transparency and combating corruption is an urgent one, where all of society must commit: private enterprises, productive sectors, universities, public companies, and government; in such a way that we have at our disposal all the necessary tools to overcome this scourge.</p>
+<p>Panama Glass Summit is an event that seeks to initiate this dialogue, where we get to know and share the new technology tools can help us automate and systemize the fight against corruption in public spending. It is an event that brings together all sectors, thus we all have to be part of the solution. To participate in this important and historic event, visit our website: <a href="https://pty.glass">https://pty.glass</a> and make your subscription. It is only together that we can create the Panama we need.</p>
+
+
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+</body>
+
+</html>
