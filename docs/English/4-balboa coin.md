@@ -6,6 +6,10 @@ __DRAFT__
 
  * _Aldo Antinori_
  * _Ira Miller <public@iramiller.com>_
+ * _Gabriel Abed_
+ * _Joe Stang_
+ * _Rachel Fogel_
+
 
 #### License
 
